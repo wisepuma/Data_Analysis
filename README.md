@@ -5,4 +5,5 @@ Stack and Tools:
 * SQL
 * Python
 * Jupyter Notebook
+* Datalore
   
