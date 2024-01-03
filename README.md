@@ -1,5 +1,5 @@
 # Data_Analysis
-Best practices for effective data analysis, including insightful guides, short examples, tasks from LeetCode with explanation.
+Best practices of data analysis, including insightful guides, short examples, tasks from LeetCode with explanation.
 
 Stack and Tools:
 * SQL
@@ -7,5 +7,6 @@ Stack and Tools:
 * Jupyter Notebook
 * Hadoop
 * Hive
+
  
   
