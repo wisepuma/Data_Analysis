@@ -7,6 +7,7 @@ Stack and Tools:
 * Jupyter Notebook
 * Hadoop
 * Hive
+* Statistics
 
  
   
